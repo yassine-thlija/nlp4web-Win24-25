@@ -1,0 +1,77 @@
+### Summary following JSN
+- NLP Basics [[lect1 summary]]
+	- Analysis level of language comprehension
+		- Phonetics and Phonology
+		- Segmentation/Tokenization
+		- Morphology
+	- Syntax
+		- POS Tagging
+		- Parsing
+	- Semantics
+	- Pragmatics
+- Text Classification [[lect2 summary]]
+	- Approaches
+	- Naive Bayes
+		- Dependent probability
+		- Bayes Rule
+	- Hidden Markov Models
+		- Sequence Labeling
+		- Probabilistic Sequence Models
+		- Hidden Markov Model
+		- Viterbi Algorithm
+- Information Retrieval [[lect3 summary]] + [[lect4 summary]]
+	- Inverted Index
+	- Search and Relevance
+	- Term frequency, inverse document frequency(TF-IDF, BM25)
+	- Evaluation
+		- Precision/Recall
+		- Mean Reciprocal Rank/Mean Average Precision
+		- Normalized Discounted Cumulative
+	- Word Representation
+		- Word Embeddings
+		- Simple Neural Techniques
+		- Transformer architecture
+	- Dense Retrieval [[lect5 summary]]
+		- Indexing techniques
+	- Knowledge Distillation
+		- Margin-MSE
+		- KL-divergence
+	- Re-Ranking Methods [[lect6 summary]]
+		- Match Pyramid
+		- Re-Ranking with BERT
+- LLM
+	- N-Gram models [[lect7 summary]]
+		- Gen with N-Gram models
+		- Out-of-vocabulary problem
+	- Neural LLM [[lect8 summary]]
+		- RNN and Transformer LM
+	- Adaptation [[lect9 summary]]
+		- Adapter
+	- In-Context Learning [[lect10 summary]]
+		- Practically Interesting
+		- Intellectually Interesting
+		- Reasoning
+		- Multi-Step Prompting
+	- Alignement [[lect11 summary]]
+	- Instruction Tuning
+		- Rein Learning
+			- Human feedback
+			- Reward R estimate
+		- Long contexts
+			- Sparsity Patterns
+		- Retrieval Augmented Generation
+			- Retrieval Augmented LM
+		- Distributed training [[lect12 summary]]
+			- Data parallelism
+			- pipeline parallelism
+		- Quantization
+			- Linear Quantization
+			- Other methods in comparison
+	- Computation Cost:
+		- FLOPS
+		- Transformer FLOPs
+		- Training Time
+
+---
+- For GPT generated questions visit:[[../GPT-Questions/Gpt Questions from lect1-lect12|Gpt Questions from lect1-lect12]]
+- For the Solutions visit:[[../GPT-Questions/Gpt Questions with solutions|Gpt Questions with solutions]]
