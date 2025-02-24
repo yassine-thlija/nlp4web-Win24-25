@@ -1,1 +1,2 @@
 -  My summaries for the nlp4web lectures, WinSem24/25, TU Darmstadt 
+- I added gpt generated exams using the lectures and last year exam structure, each exam contains 11 tasks (could contain subtasks), "sample*_nlp4web.pdf" are the samples, "sample*_sol.pdf" are the samples with the solutions.
