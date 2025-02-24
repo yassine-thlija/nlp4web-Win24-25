@@ -73,5 +73,5 @@
 		- Training Time
 
 ---
-- For GPT generated questions visit:[[../GPT-Questions/Gpt Questions from lect1-lect12|Gpt Questions from lect1-lect12]]
-- For the Solutions visit:[[../GPT-Questions/Gpt Questions with solutions|Gpt Questions with solutions]]
+- For GPT generated questions visit:[[Gpt Questions from lect1-lect12]]
+- For the Solutions visit:[[Gpt Questions with solutions]]
